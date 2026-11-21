@@ -1,6 +1,7 @@
 {
-  "code": 8,
-  "name": "0.8.0",
-  "apk": "https://github.com/3dmodelingethan-maker/Document-Revelead/releases/download/v0.8.0/revealed_document.apk",
-  "notes": "Actualizador automático, nuevos efectos, sala estilo Free Fire y más."
+  "code": 10,
+  "name": "0.9.1",
+  "apk": "https://github.com/3dmodelingethan-maker/Document-Revelead/releases/download/v0.9.1/revealed_document.apk",
+  "apk64": "https://github.com/3dmodelingethan-maker/Document-Revelead/releases/download/v0.9.1/revealed_document_arm64.apk",
+  "notes": "Resolución automática, modo liviano si el juego se cierra, carga más segura, traducciones y APK más liviano."
 }
